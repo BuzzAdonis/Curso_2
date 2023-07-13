@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Mvc_Curso_BootsTrap_06_07_2033.props" />
+</Project>
